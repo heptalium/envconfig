@@ -1,12 +1,12 @@
 # envconfig
 
 ```Go
-import "github.com/kelseyhightower/envconfig"
+import "github.com/heptalium/envconfig"
 ```
 
 ## Documentation
 
-See [godoc](http://godoc.org/github.com/kelseyhightower/envconfig)
+See [godoc](http://godoc.org/github.com/heptalium/envconfig)
 
 ## Usage
 
@@ -32,7 +32,7 @@ import (
     "log"
     "time"
 
-    "github.com/kelseyhightower/envconfig"
+    "github.com/heptalium/envconfig"
 )
 
 type Specification struct {
